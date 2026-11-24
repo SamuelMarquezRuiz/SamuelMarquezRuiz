@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="288" viewBox="0 0 880 288" role="img" aria-label="Topologías de sistema de BookMatch y Global Seismic Monitoring Web App">
+  <title>Topologías de sistema de BookMatch y Global Seismic Monitoring Web App</title>
+  <rect x="0.5" y="0.5" width="879" height="287" rx="12" fill="#F8FAFC" stroke="#94A3B8"/>
+  <text x="24" y="30" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" fill="#047857">SISTEMAS EN PRODUCCIÓN // TOPOLOGÍAS SELECCIONADAS</text>
+  <rect x="24" y="46" width="406" height="220" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+  <text x="42" y="70" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="700" fill="#0369A1">SINK_01 // MULTIPLATAFORMA + BI</text>
+  <text x="42" y="93" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#0F172A">BookMatch</text>
+  <text x="42" y="113" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#334155">Plataforma multiplataforma de intercambio y</text>
+  <text x="42" y="129" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#334155">recomendación de libros en móvil, web, API y BI.</text>
+  <path d="M 216.0 168.0 C 227.4 168.0, 226.6 168.0, 238.0 168.0" fill="none" stroke="#475569" stroke-width="1.6" stroke-dasharray="4 3"/>
+  <circle r="3.2" fill="#6D28D9"><animateMotion dur="2.4s" begin="0.0s" repeatCount="indefinite" path="M 216.0 168.0 C 227.4 168.0, 226.6 168.0, 238.0 168.0"/></circle>
+  <path d="M 238.0 180.0 C 226.6 180.0, 227.4 226.0, 216.0 226.0" fill="none" stroke="#475569" stroke-width="1.6" stroke-dasharray="4 3"/>
+  <circle r="3.2" fill="#B45309"><animateMotion dur="2.8s" begin="0.7s" repeatCount="indefinite" path="M 238.0 180.0 C 226.6 180.0, 227.4 226.0, 216.0 226.0"/></circle>
+  <path d="M 216.0 226.0 C 227.4 226.0, 226.6 226.0, 238.0 226.0" fill="none" stroke="#475569" stroke-width="1.6" stroke-dasharray="4 3"/>
+  <circle r="3.2" fill="#047857"><animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite" path="M 216.0 226.0 C 227.4 226.0, 226.6 226.0, 238.0 226.0"/></circle>
+  <rect x="42" y="146" width="174" height="44" rx="7" fill="#F8FAFC" stroke="#CBD5E1"/>
+  <circle cx="54" cy="162" r="3" fill="#6D28D9"/>
+  <text x="63" y="165" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#0F172A">Clientes Android + Web</text>
+  <text x="54" y="181" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5" fill="#334155">Kotlin Compose · Angular</text>
+  <rect x="238" y="146" width="174" height="44" rx="7" fill="#F8FAFC" stroke="#CBD5E1"/>
+  <circle cx="250" cy="162" r="3" fill="#B45309"/>
+  <text x="259" y="165" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#0F172A">API Backend y ORM</text>
+  <text x="250" y="181" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5" fill="#334155">Node.js · Express · Prisma</text>
+  <rect x="42" y="204" width="174" height="44" rx="7" fill="#F8FAFC" stroke="#CBD5E1"/>
+  <circle cx="54" cy="220" r="3" fill="#047857"/>
+  <text x="63" y="223" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#0F172A">Base Relacional</text>
+  <text x="54" y="239" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5" fill="#334155">Esquema PostgreSQL</text>
+  <rect x="238" y="204" width="174" height="44" rx="7" fill="#F8FAFC" stroke="#CBD5E1"/>
+  <circle cx="250" cy="220" r="3" fill="#0369A1"/>
+  <text x="259" y="223" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#0F172A">Capa Analítica</text>
+  <text x="250" y="239" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5" fill="#334155">Dashboard Power BI</text>
+  <rect x="450" y="46" width="406" height="220" rx="10" fill="#FFFFFF" stroke="#94A3B8"/>
+  <text x="468" y="70" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="700" fill="#B45309">SINK_02 // TELEMETRÍA GEOESPACIAL</text>
+  <text x="468" y="93" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#0F172A">Global Seismic Monitoring Web App</text>
+  <text x="468" y="113" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#334155">App web en Angular con interfaz Tectonic Dark</text>
+  <text x="468" y="129" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#334155">y capas de mapas open-source configurables.</text>
+  <rect x="468" y="146" width="370" height="102" rx="8" fill="#070B14" stroke="#94A3B8"/>
+  <rect x="482.0" y="220.0" width="5" height="10.0" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="491.6" y="211.0" width="5" height="19.0" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="501.2" y="206.2" width="5" height="23.8" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="510.8" y="207.9" width="5" height="22.1" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="520.4" y="215.3" width="5" height="14.7" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="530.0" y="215.1" width="5" height="14.9" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="539.6" y="207.8" width="5" height="22.2" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="549.2" y="206.2" width="5" height="23.8" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="558.8" y="211.2" width="5" height="18.8" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="568.4" y="219.8" width="5" height="10.2" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="578.0" y="210.8" width="5" height="19.2" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="587.6" y="206.1" width="5" height="23.9" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="597.2" y="207.8" width="5" height="22.2" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="606.8" y="215.0" width="5" height="15.0" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="616.4" y="213.6" width="5" height="16.4" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="626.0" y="204.8" width="5" height="25.2" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="635.6" y="200.4" width="5" height="29.6" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="645.2" y="200.6" width="5" height="29.4" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="654.8" y="201.9" width="5" height="28.1" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="664.4" y="184.5" width="5" height="45.5" rx="1.5" fill="#F59E0B" opacity="0.88"/>
+  <rect x="674.0" y="171.3" width="5" height="58.7" rx="1.5" fill="#F59E0B" opacity="0.88"/>
+  <rect x="683.6" y="166.1" width="5" height="63.9" rx="1.5" fill="#F59E0B" opacity="0.88"/>
+  <rect x="693.2" y="170.0" width="5" height="60.0" rx="1.5" fill="#F59E0B" opacity="0.88"/>
+  <rect x="702.8" y="169.7" width="5" height="60.3" rx="1.5" fill="#F59E0B" opacity="0.88"/>
+  <rect x="712.4" y="167.8" width="5" height="62.2" rx="1.5" fill="#F59E0B" opacity="0.88"/>
+  <rect x="722.0" y="174.6" width="5" height="55.4" rx="1.5" fill="#F59E0B" opacity="0.88"/>
+  <rect x="731.6" y="188.6" width="5" height="41.4" rx="1.5" fill="#F59E0B" opacity="0.88"/>
+  <rect x="741.2" y="204.4" width="5" height="25.6" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="750.8" y="201.7" width="5" height="28.3" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="760.4" y="201.5" width="5" height="28.5" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="770.0" y="206.1" width="5" height="23.9" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="779.6" y="215.0" width="5" height="15.0" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="789.2" y="214.1" width="5" height="15.9" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="798.8" y="207.3" width="5" height="22.7" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="808.4" y="206.4" width="5" height="23.6" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <rect x="818.0" y="211.7" width="5" height="18.3" rx="1.5" fill="#38BDF8" opacity="0.88"/>
+  <text x="482" y="166" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5" fill="#CBD5E1">TEMA: TECTONIC_DARK · CAPAS: OSM CONFIGURABLES</text>
+</svg>

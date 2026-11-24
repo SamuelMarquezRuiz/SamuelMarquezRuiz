@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="290" viewBox="0 0 880 290" role="img" aria-label="Grafo de dependencias tecnológicas entre clientes, backend y mensajería, QA e infraestructura y Data/IA">
+  <title>Grafo de dependencias tecnológicas entre clientes, backend y mensajería, QA e infraestructura y Data/IA</title>
+  <rect x="0.5" y="0.5" width="879" height="289" rx="12" fill="#F8FAFC" stroke="#94A3B8"/>
+  <text x="24" y="30" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" fill="#0369A1">DAG DE DEPENDENCIAS // STACK Y ECOSISTEMA</text>
+  <text x="856" y="30" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="500" fill="#475569">CLIENTE → SERVICIO → QA/DATOS → ANALÍTICA</text>
+  <path d="M 208.0 96.0 C 224.6 96.0, 223.4 96.0, 240.0 96.0" fill="none" stroke="#475569" stroke-width="1.6" stroke-dasharray="4 3"/>
+  <path d="M 208.0 166.0 C 224.6 166.0, 223.4 96.0, 240.0 96.0" fill="none" stroke="#475569" stroke-width="1.6" stroke-dasharray="4 3"/>
+  <path d="M 208.0 236.0 C 337.0 236.0, 327.0 166.0, 456.0 166.0" fill="none" stroke="#475569" stroke-width="1.6" stroke-dasharray="4 3"/>
+  <path d="M 424.0 96.0 C 440.6 96.0, 439.4 166.0, 456.0 166.0" fill="none" stroke="#475569" stroke-width="1.6" stroke-dasharray="4 3"/>
+  <path d="M 424.0 166.0 C 440.6 166.0, 439.4 96.0, 456.0 96.0" fill="none" stroke="#475569" stroke-width="1.6" stroke-dasharray="4 3"/>
+  <path d="M 424.0 236.0 C 440.6 236.0, 439.4 96.0, 456.0 96.0" fill="none" stroke="#475569" stroke-width="1.6" stroke-dasharray="4 3"/>
+  <path d="M 424.0 236.0 C 553.0 236.0, 543.0 96.0, 672.0 96.0" fill="none" stroke="#475569" stroke-width="1.6" stroke-dasharray="4 3"/>
+  <path d="M 640.0 166.0 C 656.6 166.0, 655.4 236.0, 672.0 236.0" fill="none" stroke="#475569" stroke-width="1.6" stroke-dasharray="4 3"/>
+  <path d="M 640.0 236.0 C 656.6 236.0, 655.4 166.0, 672.0 166.0" fill="none" stroke="#475569" stroke-width="1.6" stroke-dasharray="4 3"/>
+  <text x="24" y="56" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="700" fill="#6D28D9">CLIENTES Y UI</text>
+  <rect x="24" y="68" width="184" height="56" rx="8" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.1"/>
+  <rect x="24" y="78" width="3.5" height="36" rx="1.5" fill="#6D28D9"/>
+  <text x="37" y="92" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#0F172A">Angular · TypeScript</text>
+  <text x="37" y="109" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.2" fill="#334155">SPAs Web y Telemetría</text>
+  <circle cx="24" cy="96.0" r="2.8" fill="#94A3B8"/>
+  <circle cx="208" cy="96.0" r="2.8" fill="#6D28D9"/>
+  <rect x="24" y="138" width="184" height="56" rx="8" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.1"/>
+  <rect x="24" y="148" width="3.5" height="36" rx="1.5" fill="#6D28D9"/>
+  <text x="37" y="162" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#0F172A">Kotlin · Jetpack Compose</text>
+  <text x="37" y="179" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.2" fill="#334155">Apps Android Nativas</text>
+  <circle cx="24" cy="166.0" r="2.8" fill="#94A3B8"/>
+  <circle cx="208" cy="166.0" r="2.8" fill="#6D28D9"/>
+  <rect x="24" y="208" width="184" height="56" rx="8" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.1"/>
+  <rect x="24" y="218" width="3.5" height="36" rx="1.5" fill="#6D28D9"/>
+  <text x="37" y="232" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#0F172A">C# / WPF</text>
+  <text x="37" y="249" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.2" fill="#334155">Aplicaciones Escritorio</text>
+  <circle cx="24" cy="236.0" r="2.8" fill="#94A3B8"/>
+  <circle cx="208" cy="236.0" r="2.8" fill="#6D28D9"/>
+  <text x="240" y="56" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="700" fill="#B45309">SERVICIOS Y STREAM</text>
+  <rect x="240" y="68" width="184" height="56" rx="8" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.1"/>
+  <rect x="240" y="78" width="3.5" height="36" rx="1.5" fill="#B45309"/>
+  <text x="253" y="92" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#0F172A">Node.js · Express · Prisma</text>
+  <text x="253" y="109" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.2" fill="#334155">APIs REST y Capa ORM</text>
+  <circle cx="240" cy="96.0" r="2.8" fill="#94A3B8"/>
+  <circle cx="424" cy="96.0" r="2.8" fill="#B45309"/>
+  <rect x="240" y="138" width="184" height="56" rx="8" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.1"/>
+  <rect x="240" y="148" width="3.5" height="36" rx="1.5" fill="#B45309"/>
+  <text x="253" y="162" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#0F172A">Java · Groovy</text>
+  <text x="253" y="179" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.2" fill="#334155">Backend y Test Tooling</text>
+  <circle cx="240" cy="166.0" r="2.8" fill="#94A3B8"/>
+  <circle cx="424" cy="166.0" r="2.8" fill="#B45309"/>
+  <rect x="240" y="208" width="184" height="56" rx="8" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.1"/>
+  <rect x="240" y="218" width="3.5" height="36" rx="1.5" fill="#B45309"/>
+  <text x="253" y="232" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#0F172A">Apache Kafka</text>
+  <text x="253" y="249" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.2" fill="#334155">Eventos en Tiempo Real</text>
+  <circle cx="240" cy="236.0" r="2.8" fill="#94A3B8"/>
+  <circle cx="424" cy="236.0" r="2.8" fill="#B45309"/>
+  <text x="456" y="56" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="700" fill="#047857">QA, BD E INFRA</text>
+  <rect x="456" y="68" width="184" height="56" rx="8" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.1"/>
+  <rect x="456" y="78" width="3.5" height="36" rx="1.5" fill="#047857"/>
+  <text x="469" y="92" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#0F172A">Karate Framework</text>
+  <text x="469" y="109" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.2" fill="#334155">Aserciones API y Kafka</text>
+  <circle cx="456" cy="96.0" r="2.8" fill="#94A3B8"/>
+  <circle cx="640" cy="96.0" r="2.8" fill="#047857"/>
+  <rect x="456" y="138" width="184" height="56" rx="8" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.1"/>
+  <rect x="456" y="148" width="3.5" height="36" rx="1.5" fill="#047857"/>
+  <text x="469" y="162" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#0F172A">PostgreSQL · SQLite · Supabase</text>
+  <text x="469" y="179" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.2" fill="#334155">Persistencia Relacional</text>
+  <circle cx="456" cy="166.0" r="2.8" fill="#94A3B8"/>
+  <circle cx="640" cy="166.0" r="2.8" fill="#047857"/>
+  <rect x="456" y="208" width="184" height="56" rx="8" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.1"/>
+  <rect x="456" y="218" width="3.5" height="36" rx="1.5" fill="#047857"/>
+  <text x="469" y="232" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#0F172A">Docker · Actions · Vercel</text>
+  <text x="469" y="249" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.2" fill="#334155">CI/CD y Linux/macOS</text>
+  <circle cx="456" cy="236.0" r="2.8" fill="#94A3B8"/>
+  <circle cx="640" cy="236.0" r="2.8" fill="#047857"/>
+  <text x="672" y="56" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="700" fill="#0369A1">DATA E IA</text>
+  <rect x="672" y="68" width="184" height="56" rx="8" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.1"/>
+  <rect x="672" y="78" width="3.5" height="36" rx="1.5" fill="#0369A1"/>
+  <text x="685" y="92" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#0F172A">Python · Pandas · NumPy</text>
+  <text x="685" y="109" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.2" fill="#334155">Procesado y Pipelines</text>
+  <circle cx="672" cy="96.0" r="2.8" fill="#94A3B8"/>
+  <circle cx="856" cy="96.0" r="2.8" fill="#0369A1"/>
+  <rect x="672" y="138" width="184" height="56" rx="8" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.1"/>
+  <rect x="672" y="148" width="3.5" height="36" rx="1.5" fill="#0369A1"/>
+  <text x="685" y="162" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#0F172A">Matplotlib · Seaborn · Streamlit</text>
+  <text x="685" y="179" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.2" fill="#334155">Visualización y Apps</text>
+  <circle cx="672" cy="166.0" r="2.8" fill="#94A3B8"/>
+  <circle cx="856" cy="166.0" r="2.8" fill="#0369A1"/>
+  <rect x="672" y="208" width="184" height="56" rx="8" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.1"/>
+  <rect x="672" y="218" width="3.5" height="36" rx="1.5" fill="#0369A1"/>
+  <text x="685" y="232" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#0F172A">SQL · Excel · Power BI</text>
+  <text x="685" y="249" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.2" fill="#334155">Analítica y Dashboards</text>
+  <circle cx="672" cy="236.0" r="2.8" fill="#94A3B8"/>
+  <circle cx="856" cy="236.0" r="2.8" fill="#0369A1"/>
+</svg>
